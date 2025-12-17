@@ -5,6 +5,7 @@
 El sistema fue construido *directamente en código*, con una arquitectura moderna, modular y escalable, separando claramente el *frontend* del *backend*, y preparado para un uso profesional en entornos reales.
 
 
+
 ## 🚀 *Tecnologías Utilizadas*
 
 ### *Frontend*
@@ -21,6 +22,7 @@ El sistema fue construido *directamente en código*, con una arquitectura modern
 * FastAPI
 * PostgreSQL
 * Supabase (base de datos y servicios)
+
 
 
 ## 📂 *Estructura del Proyecto (Frontend)*
@@ -43,7 +45,9 @@ src/
 ```
 
 
+
 ## 🧩 *Funcionalidades del Sistema*
+
 
 ### 🔐 *Autenticación y Seguridad*
 
@@ -51,6 +55,7 @@ src/
 * Control de sesiones
 * Roles y permisos
 * Protección de rutas
+  
 
 ### 👥 *Gestión de Clientes*
 
@@ -58,12 +63,14 @@ src/
 * Clientes naturales y jurídicos
 * Historial de transacciones
 * Datos de contacto y fiscales
+  
 
 ### 📦 *Gestión de Productos y Servicios*
 
 * Registro de productos y servicios
 * Control de precios y estados
 * Asociación con facturación
+
 
 ### 🧾 *Facturación*
 
@@ -72,11 +79,13 @@ src/
 * Impuestos y subtotales
 * Historial de facturación
 
+
 ### 💼 *Gestión Administrativa*
 
 * Manejo de empleados
 * Organización por sucursales
 * Control de terceros y corresponsales
+
 
 ### 📊 *Contabilidad*
 
@@ -85,6 +94,7 @@ src/
 * Registro automático de movimientos
 * Control de ingresos y egresos
 
+
 ### 📈 *Reportes Financieros*
 
 * Reportes de facturación
@@ -92,12 +102,14 @@ src/
 * Estados financieros
 * Preparado para exportación (PDF / Excel)
 
+
 ### ⚙️ *Arquitectura y Escalabilidad*
 
 * Separación frontend / backend
 * Código tipado con TypeScript
 * Componentes reutilizables
 * Preparado para crecimiento funcional
+
 
 
 ## 🧠 *Backend y Base de Datos*
@@ -109,12 +121,14 @@ El diseño del backend sigue principios de *arquitectura limpia*, separación de
 La comunicación entre el frontend y el backend se realiza mediante *endpoints REST*, garantizando interoperabilidad, seguridad y mantenibilidad del sistema a largo plazo.
 
 
+
 ## 🧠 *Arquitectura del Sistema*
 
 * Arquitectura modular
 * Separación de responsabilidades
 * Preparado para entornos productivos
 * Fácil mantenimiento y ampliación
+
 
 
 ## 📌 *Estado del Proyecto*
@@ -128,15 +142,18 @@ La comunicación entre el frontend y el backend se realiza mediante *endpoints R
 ✔ Preparado para entornos productivos y escalamiento
 
 
+
 ## 👩‍💻 *Autora*
 
 *Manuela Michelle Mejía*
 Proyecto: *TIP ACCOUNT*
 
+
 ## 📄 *Licencia*
 
 Proyecto de uso académico y profesional.
 Todos los derechos reservados.
+
 
 
 ## 🏗️ *Arquitectura General del Sistema*
@@ -152,6 +169,7 @@ TIP ACCOUNT está diseñado bajo una *arquitectura desacoplada de múltiples cap
 Este enfoque garantiza *escalabilidad, mantenibilidad y seguridad*, permitiendo la evolución del sistema sin afectar otras capas.
 
 
+
 ## 🧮 *Modelo Contable Implementado*
 
 El sistema implementa una *base contable estructurada*, alineada con principios contables generales:
@@ -165,6 +183,7 @@ El sistema implementa una *base contable estructurada*, alineada con principios 
 El modelo de datos fue diseñado para *consistencia, integridad referencial y auditoría*.
 
 
+
 ## 🛡️ *Seguridad y Control*
 
 * Autenticación basada en sesiones y tokens
@@ -172,6 +191,7 @@ El modelo de datos fue diseñado para *consistencia, integridad referencial y au
 * Validaciones a nivel de backend
 * Protección de rutas críticas
 * Manejo seguro de credenciales y datos sensibles
+
 
 
 ## 📊 *Reportería y Análisis*
@@ -186,6 +206,7 @@ TIP ACCOUNT permite la generación de *información financiera confiable*, inclu
 La arquitectura está preparada para *exportación e integración con herramientas externas*.
 
 
+
 ## 📐 *Principios de Diseño*
 
 * Separación estricta de responsabilidades
@@ -193,6 +214,7 @@ La arquitectura está preparada para *exportación e integración con herramient
 * Modularidad y reutilización
 * Preparado para pruebas y mantenimiento
 * Orientado a crecimiento empresarial
+
 
 
 ## 🎯 *Alcance del Proyecto*
@@ -204,10 +226,12 @@ TIP ACCOUNT no es un prototipo ni una demo. Es un *sistema contable completo*, d
 * Base real para implementación empresarial
 
 
+
 ## 🧑‍💻 *Autora*
 
 *Manuela Michelle Mejía*
 Desarrolladora del sistema *TIP ACCOUNT*
+
 
 
 ## 🏁 *Conclusión*
